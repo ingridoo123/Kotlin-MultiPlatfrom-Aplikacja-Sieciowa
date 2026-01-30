@@ -1,0 +1,33 @@
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Lokalna konfiguracja (ścieżki SDK itd.)
+local.properties
+
+# System
+.DS_Store
+Thumbs.db
+
+# Buildy / artefakty
+*.ap_
+*.apk
+*.aab
+captures/
+apk/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.log
+
+# Optional – cache
+*.lock
